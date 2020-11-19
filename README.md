@@ -1,6 +1,6 @@
 # Robotic Arm Version 3
 
-[Here you can find documentation on third version of the world's first truly open-source low-cost bionic arm by e-NABLE Medellín, now called Humanos3D]()
+[Here you can find documentation on third version of the world's first truly open-source low-cost bionic arm by e-NABLE Medellín, now called Humanos3D](https://github.com/Humanos3D/RoboticArmV3/wiki)
 
 <img src =  "https://github.com/enable-medellin/RoboticArmV2/blob/master/wiki_images/roboticArmV2.jpg" width = "1000">
 
