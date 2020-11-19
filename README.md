@@ -1,4 +1,4 @@
-# Robotic Arm Version 3
+# Robotic Arm Version 3: Wireless Arm
 
 [Here you can find documentation on third version of the world's first truly open-source low-cost bionic arm by e-NABLE Medellín, now called Humanos3D](https://github.com/Humanos3D/RoboticArmV3/wiki)
 
